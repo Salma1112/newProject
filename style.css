@@ -1,0 +1,71 @@
+body {
+    background-image:url(image/coloresImg.jpg);
+    background-color: rgba(236, 227, 215, 0.897);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#myDivA {
+    width: 90%;
+    max-width:600px ; 
+    border: 5px solid;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+#myImage {
+    width: 50%;
+    max-width: 200px;
+    border: 5px solid;
+    border-radius: 500px;
+    border-color: rgb(255, 255, 255);
+    margin-top: 10px;
+}
+
+#myH1 {
+    font-size:40px;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#myH3 {
+    font-size:25px;
+    font-style: italic;
+    font-weight: bolder;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.class1 {
+    font-size: 22px ;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#myGallery {
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#myGallery:hover {
+    color: #454545;
+}
+
+#myGallery:active {
+    color: #c80d0d;
+}
+
+
+
+
+

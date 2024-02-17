@@ -1,0 +1,51 @@
+#drawingH1 {
+    color: #e1ce00;
+   font-style: italic; 
+}
+
+#drawingH4 {
+    color: #049170;
+    font-style: italic;
+}
+
+.drawingH9 {
+    color: #e2a60e;
+    font-style: italic;
+}
+
+#button1 {
+    background-color:white;
+    font-weight: bold;
+    font-style: italic;
+    border-color: rgb(7, 252, 252);
+    border: 2px solid;
+    color: #0eceb1;
+    border-radius: 5px;
+}
+
+#button1:hover {
+    color: #ffffff;
+    background-color: #0eceb1;
+    border: 3px solid;
+    border-color: #0e565e;
+}
+
+#spanH3 {
+    color: #13a97f;
+    font-style: italic;
+}
+
+div {
+    background-image: linear-gradient(rgb(56, 241, 222),rgb(255, 221, 0));
+    width: 200px;
+    height: 300px;
+    border: 3px solid;
+    border-color: #000000;
+    text-align: center;
+    border-radius: 10px;
+} 
+
+#h4Div {
+    font-style: italic;
+}
+    

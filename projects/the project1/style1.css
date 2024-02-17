@@ -1,0 +1,46 @@
+#wellcomeH1 {
+    color: rgb(218, 7, 137);
+    font-style: italic;
+}
+
+.h2Class  {
+    color: #f22fab;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px ;
+}
+
+.p1Class {
+    font-weight: bold;
+    color: rgb(139, 140, 145)
+}
+
+label {
+    font-style: italic;
+    font-weight: bold;
+    color: hsl(311, 88%, 50%);
+}
+
+button {
+    background-color: rgb(247, 58, 193);
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    border-radius: 5px;
+    font-weight:10px;
+}
+
+button:hover {
+    background-color: white;
+    color: #e22da0;
+    border: 3px solid;
+    border-color: #f22fab;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#span1 {
+    color: #d800ad;
+}
+

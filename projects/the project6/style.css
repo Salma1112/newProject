@@ -1,0 +1,108 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#mainDiv {
+    text-align: center;
+}
+
+#logoH1 {
+    border: 5px solid gold;
+    padding: 8px 10px 8px 0px;
+    border-radius: 20px;
+    color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#calculactorH1 {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic;
+}
+
+#ageSpan {
+    background-color: gold;
+    color: white;
+    border-radius:10px 0px 0px 10px;
+    padding: 10px;
+}
+
+#myButton1 {
+    color: gold;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    border:6px double gold ;
+    border-radius: 5px;
+}
+
+#myButton1:hover {
+    color: rgb(255, 255, 255);
+    background-color: gold;
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#backHome {
+    color: gold;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    border:6px double gold ;
+    border-radius: 5px;
+}
+
+#backHome:hover {
+    color: rgb(255, 255, 255);
+    background-color: gold;
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input {
+    border: 3px solid gold;
+    border-radius:5px ;
+}
+
+label {
+    color: gold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#myButton2 {
+    color: gold;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    border:6px double gold ;
+    border-radius: 5px;
+}
+
+#myButton2:hover {
+    color: rgb(255, 255, 255);
+    background-color: gold;
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#resultDiv {
+    border:5px solid gold ;
+    padding: 30px;
+    border-radius:30px ;
+    text-align: center;
+    display:none ;
+}

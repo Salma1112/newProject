@@ -1,0 +1,131 @@
+#div1 {
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+#favoriteF {
+    color: rgb(203, 80, 248);
+    font-size: 50px;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+input {
+    width: 260px;
+    height: 30px;
+}
+
+#buttonA {
+    color: rgb(78, 216, 191);
+    background-color: rgb(255, 255, 255);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(78, 216, 191);
+    width: 50px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#buttonA:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgba(31, 164, 104, 0.634);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#buttonL {
+    color: rgb(243, 222, 41);
+    background-color: rgb(255, 255, 255);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(243, 222, 41);
+    width: 50px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#buttonL:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgba(243, 213, 22, 0.926);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#buttonC {
+    color: rgb(245, 155, 11);
+    background-color: rgb(255, 255, 255);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(245, 155, 11);
+    width: 60px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#buttonC:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(222, 120, 18);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    width: 60px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#buttonD {
+    color: rgb(231, 26, 26);
+    background-color: rgb(255, 255, 255);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(231, 26, 26);
+    width: 60px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#buttonD:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(181, 26, 26);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    width: 60px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#count {
+    font-weight:bolder ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: italic;
+    color: blueviolet;
+}
+
+#backHome {
+    color: rgb(186, 69, 240);
+    background-color: rgb(255, 255, 255);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(186, 71, 198);
+    font-weight: bold;
+}
+
+#backHome:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(181, 83, 206);
+    border: 5px double;
+    border-radius: 8px;
+    border-color: rgb(255, 255, 255);
+    font-weight: bold;
+}

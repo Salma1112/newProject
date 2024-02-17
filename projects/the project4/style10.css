@@ -1,0 +1,81 @@
+#carouselDiv {
+    background-image: linear-gradient(rgb(254, 225, 37),rgb(255, 255, 255));
+    padding: 20px;
+    height: 60vh;
+    display: flex;
+    align-items: center;                                            
+}
+
+img {
+    height: 40vh;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 50px;
+    border: 10px solid ;
+    background-size: cover;
+}
+
+.myDiv {
+    padding: 20px;
+    font-weight: 50px;
+}
+
+#theDiv4 {
+    text-align: center;
+    background-image: linear-gradient(rgb(255, 255, 255),gold);
+}
+
+.myLi {
+    font-size: 30px;
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-style: italic;
+    color: gold;
+}
+
+#myTitel {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.myParagraph {
+    font-size: 24px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: italic;
+}
+ #theParagraph4 {
+    font-size: 25px;
+ }
+
+ .myAicon {
+    color:rgb(0, 0, 0) ;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+#myButton {
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    border: 5px double;
+    border-color: rgb(0, 0, 0) ;
+}
+
+#myButton2 {
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    border: 5px double;
+    border-color: rgb(0, 0, 0) ;
+}
+
+#myH3 {   
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+

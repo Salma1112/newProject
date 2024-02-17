@@ -1,0 +1,40 @@
+#firestH1 {
+    font-style: italic;
+    color: #1793f2;
+}
+
+.colerHi {
+    font-style: italic;
+    color: #69b2e3;
+}
+
+.paragraph {
+    color: #6d6969;
+    font-weight: bold;
+}
+
+button {
+    font-style: italic;
+    color: #ffffff;
+    background-color: #1793f2;
+}
+
+ #myImg {
+    width: 50%;
+    max-width: 250px;
+ }
+
+
+label {
+    color: #1c65d2;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.spanOne {
+    color: #537be1;
+}
+
+#myH4 {
+    color: #1c65d2;
+}

@@ -1,0 +1,67 @@
+body {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#mainDiv {
+    max-width: 600px;
+    border: 10px double pink;
+    color: white;
+    padding:20px;
+    border-radius: 10px;
+}
+
+#resultDiv {
+    background-color:palevioletred ;
+    border: 7px double ;
+    border-radius: 10px;
+    text-align: right;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    overflow: auto;
+}
+
+.buttonDiv{
+    border: 4px double rgb(171, 21, 126);
+    border-radius: 10px;
+    background-color: pink;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    padding: 2% 4%;
+    transition: 0.54s;
+}
+
+.buttonDiv:hover {
+    background-color: rgb(250, 137, 174);
+    cursor: pointer;
+}
+
+.buttonDiv:active {
+    background-color: pink;
+}
+
+#backHome {
+    background-color:rgb(250, 137, 174) ;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    border: 4px double rgb(171, 21, 126) ;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#backHome:hover {
+    background-color: pink;
+    transition: 0.54s;
+}
+
+
